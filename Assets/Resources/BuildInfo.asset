@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   winClientBuildNumber: 1007
   linuxClientBuildNumber: 1
-  androidClientBuildNumber: 1
-  lastBuildTimestamp: 639251600308798952
+  androidClientBuildNumber: 3
+  lastBuildTimestamp: 639251639171039926
