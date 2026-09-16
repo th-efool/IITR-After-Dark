@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "TPCamera",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "bc0d10f5-034d-482e-b17f-1fda6e6ce23e",
+            "actions": [
+                {
+                    "name": "Mouse",
+                    "type": "PassThrough",
+                    "id": "d57946e0-0d44-4082-9813-c64e9f84f363",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "818c88dc-6870-447f-ba12-2ab724fd8d36",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
