@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 96de908384869cd409c75efa351d5edf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/TMPro/Shaders/SDFFunctions.hlsl
+  uploadId: 768075

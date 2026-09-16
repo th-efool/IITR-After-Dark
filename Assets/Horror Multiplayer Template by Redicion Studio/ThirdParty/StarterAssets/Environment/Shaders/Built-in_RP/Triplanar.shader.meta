@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e61aeb7487ccb5e4fb6d45036e33fb7b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/StarterAssets/Environment/Shaders/Built-in_RP/Triplanar.shader
+  uploadId: 768075

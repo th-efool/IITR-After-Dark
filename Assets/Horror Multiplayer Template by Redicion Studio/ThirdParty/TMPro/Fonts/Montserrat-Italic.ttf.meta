@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 9ecf69e3368ab8b4e95f54ec463c0850
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Montserrat
+  fontNames:
+  - Montserrat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7a0bf34498a6892428622a0ebdc92d49, type: 3}
+  - {fileID: 12800000, guid: 3c1ec8c4d28752f48a6d2d13608b89c1, type: 3}
+  - {fileID: 12800000, guid: 905f13ea1b3c96343a4f11c74ec275d7, type: 3}
+  - {fileID: 12800000, guid: 37b1c7ebcf12d0e4f96b13943b22d8b3, type: 3}
+  - {fileID: 12800000, guid: f34e3afd86b6a9a4d8545e81707ba782, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/TMPro/Fonts/Montserrat-Italic.ttf
+  uploadId: 768075

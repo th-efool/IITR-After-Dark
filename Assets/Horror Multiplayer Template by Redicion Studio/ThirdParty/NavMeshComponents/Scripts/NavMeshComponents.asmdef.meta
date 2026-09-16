@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59a2bf1a03102be4c80032c2c1f3a076
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/NavMeshComponents/Scripts/NavMeshComponents.asmdef
+  uploadId: 768075

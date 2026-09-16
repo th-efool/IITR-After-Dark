@@ -1,0 +1,11 @@
+TextMesh Pro: https://github.com/needle-mirror/com.unity.textmeshpro (License: Unity Companion License for Unity-dependent projects)
+
+Mirror: https://github.com/vis2k/Mirror (License: MIT License)
+
+Cecil: https://github.com/jbevain/cecil (License: MIT License)
+
+LeanTween: https://assetstore.unity.com/packages/tools/animation/leantween-3595 (License: Standard Unity Asset Store EULA)
+
+Starter Assets Third-person Character Controller: https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526 (License: Unity Companion License)
+
+Nav Mesh Components: https://github.com/Unity-Technologies/NavMeshComponents (License: MIT License)

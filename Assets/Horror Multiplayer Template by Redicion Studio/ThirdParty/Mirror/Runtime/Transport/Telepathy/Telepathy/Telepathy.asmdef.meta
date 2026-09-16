@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 725ee7191c021de4dbf9269590ded755
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/Mirror/Runtime/Transport/Telepathy/Telepathy/Telepathy.asmdef
+  uploadId: 768075

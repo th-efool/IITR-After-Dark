@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4c1b235bbe054706bef6d092f361006e
+timeCreated: 1626430539
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/NonAlloc/KcpClientConnectionNonAlloc.cs
+  uploadId: 768075

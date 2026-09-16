@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c334973cef89a9840b0b0c507e0377ab
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/TMPro/Shaders/TMPro_Mobile.cginc
+  uploadId: 768075

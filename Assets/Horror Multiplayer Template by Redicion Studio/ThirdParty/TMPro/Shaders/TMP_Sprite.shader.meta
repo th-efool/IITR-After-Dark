@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cf81c85f95fe47e1a27f6ae460cf182c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/ThirdParty/TMPro/Shaders/TMP_Sprite.shader
+  uploadId: 768075
