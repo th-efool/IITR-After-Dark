@@ -1,0 +1,4 @@
+Model: inventory items
+Author: sandsound
+Source: https://opengameart.org/content/inventory-items
+License: Public Domain (CC0) - No attribution required

@@ -1,0 +1,5 @@
+Model: Tree Animate
+Author: Node_λrt
+Source: https://sketchfab.com/3d-models/tree-animate-f0f9eb5e6c104bbb8e1f41c97019e6f2
+License: Public Domain (CC0) - No attribution required
+Permission: Node_λrt has granted permission for the model to be used under the CC0 license for inclusion in the Horror Multiplayer Game Template on the Unity Asset Store.

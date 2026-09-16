@@ -1,0 +1,4 @@
+Model: 80s Generic police car - Low poly model
+Author: Daniel Zhabotinsky
+License: Public Domain (CC0) - No attribution required
+Permission: Daniel Zhabotinsky has granted permission for the model to be used under the CC0 license for inclusion in the Horror Multiplayer Game Template on the Unity Asset Store.

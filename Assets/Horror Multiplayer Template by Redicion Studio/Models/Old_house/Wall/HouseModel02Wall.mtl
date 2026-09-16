@@ -1,0 +1,12 @@
+newmtl Wall
+map_Kd House_003_Wall.png
+bump House_003_Wall_Normal.png
+Kd 1 0.9959461 0.759434
+d 1
+
+newmtl WallTop
+map_Kd House_003_L_FLoor_Ceiling_AlbedoTransparency.png
+bump House_003_L_SmallAssets_Normal.png
+Kd 1 0.9959461 0.759434
+d 1
+

@@ -1,0 +1,4 @@
+Model: Hatchet
+Author: mastahcez
+Source: https://opengameart.org/content/hatchet
+License: Public Domain (CC0) - No attribution required

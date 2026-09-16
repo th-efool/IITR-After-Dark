@@ -1,0 +1,4 @@
+Model: Street lights
+Author: DREAM_SEARCH_REPEAT
+Source: https://opengameart.org/content/street-lights
+License: Public Domain (CC0) - No attribution required

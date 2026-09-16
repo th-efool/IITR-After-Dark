@@ -1,0 +1,4 @@
+Model: Rustic Iron Gate
+Author: ArtChitectModels
+Source: https://github.com/ArtChitectModels/Game-Props-3D-Models-Pack-CC0-/tree/main/RusticIronGate
+License: Public Domain (CC0) - No attribution required

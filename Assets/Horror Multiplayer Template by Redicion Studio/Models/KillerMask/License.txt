@@ -1,0 +1,4 @@
+Model: Gasmask1
+Author: DeadDog
+Source: https://opengameart.org/content/gasmask1
+License: Public Domain (CC0) - No attribution required

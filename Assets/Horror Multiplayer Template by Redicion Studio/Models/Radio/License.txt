@@ -1,0 +1,4 @@
+Model: Radio
+Author: yethiel
+Source: https://opengameart.org/content/radio
+License: Public Domain (CC0) - No attribution required

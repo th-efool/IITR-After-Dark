@@ -1,0 +1,4 @@
+Model: Medi Kit/Box
+Author: yethiel
+Source: https://opengameart.org/content/medi-kitbox
+License: Public Domain (CC0) - No attribution required

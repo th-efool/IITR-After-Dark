@@ -1,0 +1,4 @@
+Model: Cowboy Hat
+Author: ArtChitectModels
+Source: https://github.com/ArtChitectModels/Game-Props-3D-Models-Pack-CC0-/tree/main/CowboyHat
+License: Public Domain (CC0) - No attribution required

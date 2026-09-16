@@ -1,0 +1,4 @@
+Model: Low Quality Flashlight
+Author: neincenets
+Source: https://opengameart.org/content/low-quality-flashlight
+License: Public Domain (CC0) - No attribution required

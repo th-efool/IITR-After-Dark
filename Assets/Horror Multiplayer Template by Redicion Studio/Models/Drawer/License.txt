@@ -1,0 +1,4 @@
+Model: Dresser (untextured)
+Author: LML STUDIO
+Source: https://opengameart.org/content/dresser-untextured
+License: Public Domain (CC0) - No attribution required

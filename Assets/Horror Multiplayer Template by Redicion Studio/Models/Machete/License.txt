@@ -1,0 +1,4 @@
+Model: PBR MACHETE (CC0)
+Author: Lucian Pavel
+Source: https://opengameart.org/content/pbr-machete-cc0
+License: Public Domain (CC0) - No attribution required

@@ -1,0 +1,11 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl Wall
+map_Kd House_003_Wall.png
+bump House_003_Wall_Normal.png
+Kd 1 0.9959461 0.759434
+d 1
+

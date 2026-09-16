@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0bf2b7d202ba964f89d57d998bfc3b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Models/SedanCar/Animations/Turn
+    Lights/LeftTurnLights.controller
+  uploadId: 768075

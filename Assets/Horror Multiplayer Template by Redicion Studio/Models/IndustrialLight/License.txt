@@ -1,0 +1,4 @@
+Model: Wall Sconce Luminaire
+Author: ArtChitectModels
+Source: https://github.com/ArtChitectModels/Game-Props-3D-Models-Pack-CC0-/tree/main/WallSconceLuminaire
+License: Public Domain (CC0) - No attribution required

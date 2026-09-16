@@ -1,0 +1,4 @@
+Model: Shotgun
+Author: MikeMoon
+Source: https://opengameart.org/content/shotgun-1
+License: Public Domain (CC0) - No attribution required

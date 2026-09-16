@@ -1,0 +1,4 @@
+Model: 3TD Starter Pack #1
+Author: Ron Kapaun
+Source: https://opengameart.org/content/3td-starter-pack-1
+License: Public Domain (CC0) - No attribution required

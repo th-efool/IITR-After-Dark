@@ -1,0 +1,4 @@
+Model: Pallets
+Author: JamesWhite
+Source: https://opengameart.org/content/pallets
+License: Public Domain (CC0) - No attribution required

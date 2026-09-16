@@ -1,0 +1,4 @@
+Model: Bushes
+Author: Yughues
+Source: https://opengameart.org/content/bushes
+License: Public Domain (CC0) - No attribution required

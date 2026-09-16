@@ -1,0 +1,4 @@
+Model: Chainsaw
+Author: loafbrr_1
+Source: https://opengameart.org/content/chainsaw-1
+License: Public Domain (CC0) - No attribution required
