@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb920b0ac4f96424da113c1fd2ee9c48
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Animation/UI/specialAttackUI/SpecialAttackUIAnimator.controller
+  uploadId: 768075

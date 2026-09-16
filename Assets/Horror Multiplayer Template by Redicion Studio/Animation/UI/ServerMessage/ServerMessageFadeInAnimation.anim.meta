@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34a76eb9d07df3b43aa093db2c1de8d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Animation/UI/ServerMessage/ServerMessageFadeInAnimation.anim
+  uploadId: 768075
