@@ -1,0 +1,3 @@
+LiteNetLib: https://github.com/RevenantX/LiteNetLib (License: MIT License)
+SQLite: https://www.sqlite.org/index.html (License: Public Domain)
+sqlite-net: https://github.com/praeclarum/sqlite-net (License: MIT License)

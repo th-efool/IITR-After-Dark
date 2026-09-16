@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d68bb17cc9695c34091adf5a3f45d53c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Resources/BuildInfo.asset
+  uploadId: 768075
