@@ -1,0 +1,10 @@
+License
+
+Permitted Use
+
+This Unity asset ("Horror Multiplayer Game Template") is licensed for use in personal or commercial projects when purchased through the official Unity Asset Store,
+provided it is integrated into your project and not distributed as a standalone file.
+
+Prohibited Actions
+
+You may NOT resell, redistribute, sublicense, or share the Asset or any individual file, modified or unmodified, in any form.
