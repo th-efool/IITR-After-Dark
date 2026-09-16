@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100d2a47790a5a441bbcfeff5215c303, type: 3}
+  m_Name: SuperCoolApple0
+  m_EditorClassIdentifier: 
+  uniqueName: SuperCoolApple0
+  modelPrefab: {fileID: 3387144550855926460, guid: 726caa186f0e4e64793d44036e4ddaab,
+    type: 3}
+  sprite: {fileID: 21300000, guid: 6c6b33b970cdffc48b1f1fd1a9672384, type: 3}
+  stackSize: 1
+  tooltipText: '<b>{NAME}</b>
+
+
+    An apple is an edible fruit produced by an apple
+    tree (Malus domestica).
+
+
+    <b>Sell Price:</b> {SELL_PRICE}
+
+    <b>Nutrition:</b>
+    {NUTRITION}
+
+    <b>Shelf Life:</b> {CURRENT_SHELF_LIFE}'
+  rarity: 3
+  price: 100
+  sellPrice: 50
+  cooldownInSeconds: 2
+  cooldownTag: apple
+  nutrition: 9999
+  shelfLifeInSeconds: 50000

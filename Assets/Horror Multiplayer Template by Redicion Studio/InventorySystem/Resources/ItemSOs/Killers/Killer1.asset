@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a386de504e8456a419b361d53586232a, type: 3}
+  m_Name: Killer1
+  m_EditorClassIdentifier: 
+  uniqueName: Shredder
+  modelPrefab: {fileID: 3387144550855926460, guid: 6dab8cd63ffc8c04cb5c60c981be20d6,
+    type: 3}
+  sprite: {fileID: 21300000, guid: b816a6eb1b8af0348b68f2e0ac401c36, type: 3}
+  stackSize: 1
+  tooltipText: The Shredder is a fearsome and ruthless assassin whose very presence
+    disturbs the lights around him, casting eerie shadows with his magnetic aura.
+    This dark energy causes nearby electronics to flicker and malfunction, creating
+    an atmosphere of palpable dread.
+  rarity: 3
+  price: 500
+  sellPrice: 250
+  itemType: 2
+  killerID: 2
+  previewModelPrefab: {fileID: 544061464748589270, guid: af6c8215f7a2e1042998548af16c98fe,
+    type: 3}

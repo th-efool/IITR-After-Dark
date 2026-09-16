@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a12ffd1a52aab54687b7600e059fdd5, type: 3}
+  m_Name: Perk1
+  m_EditorClassIdentifier: 
+  uniqueName: Perk1
+  modelPrefab: {fileID: 3387144550855926460, guid: 726caa186f0e4e64793d44036e4ddaab,
+    type: 3}
+  sprite: {fileID: 21300000, guid: 02a3f634bbbc1ff4b860363a132c616c, type: 3}
+  stackSize: 1
+  tooltipText: "<b>The Mechanic</b> - <b>{NAME}</b>\r\n\r\n<color=#00FF00FF>Increases
+    the </color><color=#00FF00FF><b>repair speed </b></color><color=#00FF00FF>by
+    <b>25%</b></color>\r"
+  rarity: 1
+  price: 100
+  sellPrice: 50
+  itemType: 1
+  perkEffects:
+  - name: Increases the repair speed by 25%
+    type: 3
+    status: 0
+    value: 1.125
+  perkNote: The mechanic

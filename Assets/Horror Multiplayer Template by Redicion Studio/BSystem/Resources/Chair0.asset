@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29759df5016d33c47a677e4aab2eaac5, type: 3}
+  m_Name: Chair0
+  m_EditorClassIdentifier: 
+  uniqueName: Chair0
+  category: Furnishings/Living Room
+  type: 0
+  size: {x: 0.9, y: 1.55, z: 0.9}
+  modelPrefab: {fileID: 234693896710488547, guid: 4cddd01ecdda67e4e8cebac2ad3aa123,
+    type: 3}
+  sprite: {fileID: 21300000, guid: 455d2bd7b6572714a84a744305838c6b, type: 3}
+  price: 50
+  sellPrice: 25

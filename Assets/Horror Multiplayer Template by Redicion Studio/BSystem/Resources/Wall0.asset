@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29759df5016d33c47a677e4aab2eaac5, type: 3}
+  m_Name: Wall0
+  m_EditorClassIdentifier: 
+  uniqueName: Wall0
+  category: Base/Prototype
+  type: 2
+  size: {x: 0, y: 0, z: 0}
+  modelPrefab: {fileID: 234693896710488547, guid: 315e9aff231b1394ea138479564d9ee8,
+    type: 3}
+  sprite: {fileID: 21300000, guid: d3b2c236ee70367419163f087b612ed4, type: 3}
+  price: 50
+  sellPrice: 25

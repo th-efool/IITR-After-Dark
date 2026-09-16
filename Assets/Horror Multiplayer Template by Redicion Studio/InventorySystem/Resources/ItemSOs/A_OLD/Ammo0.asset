@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6640b7b2bc0a047b1d17be158b6615, type: 3}
+  m_Name: Ammo0
+  m_EditorClassIdentifier: 
+  uniqueName: Ammo0
+  modelPrefab: {fileID: 3387144550855926460, guid: e95b6d31e37be734c94ff7b4dfeb6c95,
+    type: 3}
+  sprite: {fileID: 21300000, guid: 731f1c87a83112648a05f34c364e198b, type: 3}
+  stackSize: 64
+  tooltipText: Default Ammo
+  rarity: 0
+  price: 0
+  sellPrice: 0
+  weaponType: 0
+  damage: 10
