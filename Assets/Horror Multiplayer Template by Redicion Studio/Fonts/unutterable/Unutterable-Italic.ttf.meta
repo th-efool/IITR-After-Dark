@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: c83273f1c329ab0499c339bd536958ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Unutterable
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f1b2344c3a7fbe3429aacd1bc8952360, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Fonts/unutterable/Unutterable-Italic.ttf
+  uploadId: 768075

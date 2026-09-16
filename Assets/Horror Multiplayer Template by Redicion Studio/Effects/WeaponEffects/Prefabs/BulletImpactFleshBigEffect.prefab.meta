@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5a3d6da48298a0458c1990f58c27069
+timeCreated: 1473942253
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Effects/WeaponEffects/Prefabs/BulletImpactFleshBigEffect.prefab
+  uploadId: 768075
