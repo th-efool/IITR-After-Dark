@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1c3554e43b5a6814391d4f01d1b8f8d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Scripts/UI/MainMenuUIButton.cs
+  uploadId: 768075

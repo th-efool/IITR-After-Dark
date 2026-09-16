@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b878b2bd27dca747855179c7ca76010
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Scripts/Vehicles/Plane/JetParticleEffect.cs
+  uploadId: 768075

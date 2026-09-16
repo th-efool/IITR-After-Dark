@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ec08dfc1db43ba74c94b8af1f28f7269
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Scripts/World/DroppedMoney.cs
+  uploadId: 768075

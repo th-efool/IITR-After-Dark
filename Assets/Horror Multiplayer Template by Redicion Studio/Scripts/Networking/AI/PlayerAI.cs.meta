@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9b9c12bafd4595c478a56d22841983d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Scripts/Networking/AI/PlayerAI.cs
+  uploadId: 768075

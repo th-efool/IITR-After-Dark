@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7ca78f8307c1c7540ae5799c7e1ba529
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Editor/Code/CreateOutfitWindow.cs
+  uploadId: 768075

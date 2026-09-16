@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf6c56c7f8c75ca4c99450be5aca5ace
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 297297
+  packageName: Horror Multiplayer Game Template
+  packageVersion: 1.03
+  assetPath: Assets/Horror Multiplayer Template by Redicion Studio/Scripts/Vehicles/Plane/LandingGear.cs
+  uploadId: 768075
